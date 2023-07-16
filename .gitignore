@@ -1,0 +1,8 @@
+.DS_Store
+secrets.txt
+
+#Log files
+
+# by using asterix, you can select all files of one format
+# example *.txt
+# so all text files will be ignored and not commited
